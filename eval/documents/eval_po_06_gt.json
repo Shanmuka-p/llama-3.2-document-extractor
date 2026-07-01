@@ -1,0 +1,16 @@
+{
+  "buyer": "Federal Express",
+  "supplier": "Ganga Water Corp",
+  "po_number": "PO-2026-0035",
+  "date": "2026-01-05",
+  "delivery_date": null,
+  "currency": "USD",
+  "total": 8535.76,
+  "items": [
+    {
+      "item_name": "Circuit Breaker 100A",
+      "quantity": 46,
+      "unit_price": 185.56
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+PURCHASE AUTHORIZATION
+Ref: PO-2026-0032
+Date: 2026-11-12
+
+We, State Bank of India, hereby authorize the purchase of goods from Starlight Media. Please fulfill the following order:
+  - 20 units of 'Safety Helmets Pack of 10' at USD 125.39 each
+  - 16 units of 'Drill Bit Set Heavy Duty' at USD 182.93 each
+
+The total authorized amount for this purchase is USD 5434.68.
+Authorized Signature,
+Procurement Dept, State Bank of India

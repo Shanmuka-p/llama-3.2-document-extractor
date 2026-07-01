@@ -1,0 +1,14 @@
+=== RECEIPT INV-2026-0057 ===
+VENDOR: Rio Tinto
+DATE: 2026/11/24
+DUE_DATE: 2026/12/23
+CUR: USD
+ITEMS:
+* 13x Consulting Fees - Level 3 @ 146.84
+* 9x Database Migration Service @ 3236.51
+* 11x Monitor 27 inch 4K @ 366.91
+* 10x Database Migration Service @ 3416.72
+* 2x Monitor 27 inch 4K @ 361.72
+SUB: 69964.16
+TAX: 6996.42
+TOTAL: 76960.58

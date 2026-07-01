@@ -1,0 +1,21 @@
+{
+  "buyer": "Siemens AG",
+  "supplier": "Oz Mining Ltd.",
+  "po_number": "PO-2026-0037",
+  "date": "2026-01-24",
+  "delivery_date": "2026-02-15",
+  "currency": "USD",
+  "total": 10477.19,
+  "items": [
+    {
+      "item_name": "Industrial Valve A-12",
+      "quantity": 12,
+      "unit_price": 472.44
+    },
+    {
+      "item_name": "Ball Bearings pack of 20",
+      "quantity": 59,
+      "unit_price": 81.49
+    }
+  ]
+}

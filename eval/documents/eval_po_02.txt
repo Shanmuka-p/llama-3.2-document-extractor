@@ -1,0 +1,5 @@
+PO_HEADER: Num=PO-2026-0031,Date=2026-05-02,DeliveryDate=2026-05-18,Buyer=Tata Motors,Supplier=TechNova Systems,Currency=USD
+ITEMS:
+ITEM=Drill Bit Set Heavy Duty,QTY=35,PRICE=186.4
+ITEM=Hydraulic Pump HP-3,QTY=92,PRICE=1233.42
+PO_TOTAL: 119998.64

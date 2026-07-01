@@ -1,0 +1,9 @@
+ORDER DETAIL:
+  - PO Reference  : PO-2026-0035
+  - Date of Issue : 2026-01-05
+  - Buyer Legal Name : Federal Express
+  - Supplier Legal Name: Ganga Water Corp
+  - Currency      : USD
+  - Items List:
+    Item 1 : Circuit Breaker 100A (Qty: 46, Unit Price: 185.56)
+  - Total Authorized Sum: 8535.76

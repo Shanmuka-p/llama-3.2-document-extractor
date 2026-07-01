@@ -1,0 +1,14 @@
+[INVOICE SUMMARY]
+  Vendor Name  : Renault Group
+  Invoice No   : INV-2026-0052
+  Issue Date   : 2026-07-09
+  Currency     : USD
+  
+  Billing Details:
+  Item #1 description: DevOps Pipeline Setup
+  Item #1 qty: 12
+  Item #1 unit price: 2398.43
+  Financial Summary:
+    Subtotal   : 28781.16
+    Taxes      : 2878.12
+    Grand Total: 31659.28

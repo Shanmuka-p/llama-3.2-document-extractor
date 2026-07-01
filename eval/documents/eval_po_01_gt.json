@@ -1,0 +1,31 @@
+{
+  "buyer": "Reliance Industries",
+  "supplier": "Apex Global Logistics",
+  "po_number": "PO-2026-0030",
+  "date": "2026-02-08",
+  "delivery_date": "2026-02-22",
+  "currency": "USD",
+  "total": 32609.47,
+  "items": [
+    {
+      "item_name": "Drill Bit Set Heavy Duty",
+      "quantity": 52,
+      "unit_price": 183.07
+    },
+    {
+      "item_name": "Lifting Sling 3-Ton",
+      "quantity": 58,
+      "unit_price": 65.57
+    },
+    {
+      "item_name": "Pneumatic Cylinder PC-9",
+      "quantity": 58,
+      "unit_price": 314.8
+    },
+    {
+      "item_name": "Grinding Wheel 7-inch",
+      "quantity": 83,
+      "unit_price": 12.39
+    }
+  ]
+}

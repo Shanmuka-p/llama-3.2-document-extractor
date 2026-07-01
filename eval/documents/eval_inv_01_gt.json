@@ -1,0 +1,22 @@
+{
+  "vendor": "Bharati Airtel",
+  "invoice_number": "INV-2026-0050",
+  "date": "2026-08-09",
+  "due_date": "2026-09-10",
+  "currency": "USD",
+  "subtotal": 3930.9,
+  "tax": null,
+  "total": 3930.9,
+  "line_items": [
+    {
+      "description": "Backup Power UPS 1500VA",
+      "quantity": 3,
+      "unit_price": 192.1
+    },
+    {
+      "description": "Monitor 27 inch 4K",
+      "quantity": 10,
+      "unit_price": 335.46
+    }
+  ]
+}

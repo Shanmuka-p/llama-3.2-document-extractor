@@ -1,0 +1,18 @@
+<div class="invoice">
+  <h1>Invoice from Mitsui & Co.</h1>
+  <div class="meta">
+    <div>Invoice #: INV-2026-0055</div>
+    <div>Date: 2026-07-06</div>
+    
+    <div>Currency: USD</div>
+  </div>
+  <table class="items">
+    <tr><th>Item</th><th>Qty</th><th>Price</th></tr>
+    <tr><td>Cat6 Ethernet Cable box</td><td>9</td><td>81.2</td></tr>
+    <tr><td>Fiber Optic Cable 10m</td><td>5</td><td>14.07</td></tr>
+  </table>
+  <div class="totals">
+    <div>Subtotal: 801.15</div>
+    <div class="total">Total: 801.15</div>
+  </div>
+</div>

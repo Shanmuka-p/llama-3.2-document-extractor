@@ -1,0 +1,31 @@
+{
+  "buyer": "Nestle India",
+  "supplier": "Vikas Fertilizers",
+  "po_number": "PO-2026-0039",
+  "date": "2026-03-09",
+  "delivery_date": "2026-04-01",
+  "currency": "USD",
+  "total": 143732.5,
+  "items": [
+    {
+      "item_name": "Industrial Thermometer",
+      "quantity": 72,
+      "unit_price": 83.26
+    },
+    {
+      "item_name": "Safety Gloves Carton",
+      "quantity": 82,
+      "unit_price": 238.32
+    },
+    {
+      "item_name": "Hydraulic Pump HP-3",
+      "quantity": 88,
+      "unit_price": 1268.86
+    },
+    {
+      "item_name": "Lifting Sling 3-Ton",
+      "quantity": 97,
+      "unit_price": 67.38
+    }
+  ]
+}

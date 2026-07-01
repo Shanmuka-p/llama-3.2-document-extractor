@@ -1,0 +1,27 @@
+{
+  "vendor": "TotalEnergies",
+  "invoice_number": "INV-2026-0054",
+  "date": "2026-11-22",
+  "due_date": "2026-12-12",
+  "currency": "USD",
+  "subtotal": 43828.8,
+  "tax": 7889.18,
+  "total": 51717.98,
+  "line_items": [
+    {
+      "description": "Technical Support - Annual",
+      "quantity": 13,
+      "unit_price": 790.53
+    },
+    {
+      "description": "Project Management - Month",
+      "quantity": 6,
+      "unit_price": 5232.36
+    },
+    {
+      "description": "Consulting Fees - Level 3",
+      "quantity": 15,
+      "unit_price": 143.85
+    }
+  ]
+}

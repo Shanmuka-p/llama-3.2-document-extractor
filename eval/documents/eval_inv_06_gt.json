@@ -1,0 +1,22 @@
+{
+  "vendor": "Mitsui & Co.",
+  "invoice_number": "INV-2026-0055",
+  "date": "2026-07-06",
+  "due_date": null,
+  "currency": "USD",
+  "subtotal": 801.15,
+  "tax": null,
+  "total": 801.15,
+  "line_items": [
+    {
+      "description": "Cat6 Ethernet Cable box",
+      "quantity": 9,
+      "unit_price": 81.2
+    },
+    {
+      "description": "Fiber Optic Cable 10m",
+      "quantity": 5,
+      "unit_price": 14.07
+    }
+  ]
+}

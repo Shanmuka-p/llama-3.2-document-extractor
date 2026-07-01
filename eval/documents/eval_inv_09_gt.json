@@ -1,0 +1,17 @@
+{
+  "vendor": "Infosys Technologies",
+  "invoice_number": "INV-2026-0058",
+  "date": "2026-01-20",
+  "due_date": "2026-02-17",
+  "currency": "USD",
+  "subtotal": 1756.92,
+  "tax": 316.25,
+  "total": 2073.17,
+  "line_items": [
+    {
+      "description": "Consulting Fees - Level 3",
+      "quantity": 11,
+      "unit_price": 159.72
+    }
+  ]
+}

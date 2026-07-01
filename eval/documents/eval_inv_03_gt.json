@@ -1,0 +1,17 @@
+{
+  "vendor": "Renault Group",
+  "invoice_number": "INV-2026-0052",
+  "date": "2026-07-09",
+  "due_date": null,
+  "currency": "USD",
+  "subtotal": 28781.16,
+  "tax": 2878.12,
+  "total": 31659.28,
+  "line_items": [
+    {
+      "description": "DevOps Pipeline Setup",
+      "quantity": 12,
+      "unit_price": 2398.43
+    }
+  ]
+}

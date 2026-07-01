@@ -1,0 +1,32 @@
+{
+  "vendor": "Deutsche Telekom",
+  "invoice_number": "INV-2026-0051",
+  "date": "2026-07-23",
+  "due_date": "2026-08-19",
+  "currency": "USD",
+  "subtotal": 38521.14,
+  "tax": 6933.81,
+  "total": 45454.95,
+  "line_items": [
+    {
+      "description": "Mechanical Keyboard",
+      "quantity": 14,
+      "unit_price": 118.6
+    },
+    {
+      "description": "Software License - Enterprise",
+      "quantity": 7,
+      "unit_price": 1217.26
+    },
+    {
+      "description": "Project Management - Month",
+      "quantity": 5,
+      "unit_price": 5492.69
+    },
+    {
+      "description": "Technical Support - Annual",
+      "quantity": 1,
+      "unit_price": 876.47
+    }
+  ]
+}

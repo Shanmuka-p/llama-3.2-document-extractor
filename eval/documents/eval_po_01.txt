@@ -1,0 +1,17 @@
+PURCHASE ORDER
+PO Number: PO-2026-0030
+Date: 2026-02-08
+Delivery Date: 2026-02-22
+Buyer: Reliance Industries
+Supplier: Apex Global Logistics
+Currency: USD
+
+-----------------------------------------
+Item Description     Qty    Unit Cost    Total
+-----------------------------------------
+Drill Bit Set Heavy Duty 52     183.07       9519.64
+Lifting Sling 3-Ton  58     65.57        3803.06
+Pneumatic Cylinder PC-9 58     314.8        18258.4
+Grinding Wheel 7-inch 83     12.39        1028.37
+-----------------------------------------
+GRAND TOTAL: USD 32609.47

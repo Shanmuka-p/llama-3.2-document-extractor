@@ -1,0 +1,12 @@
+TOTALENERGIES CO.
+INV NO: INV-2026-0054
+DATE: 2026-11-22
+due date: 2026-12-12
+CURR: USD
+---------------------
+13  Technical Support - Annual  790.53
+6  Project Management - Month  5232.36
+15  Consulting Fees - Level 3  143.85
+SUBTOTAL  43828.8
+TAX  7889.18
+TOTAL  51717.98

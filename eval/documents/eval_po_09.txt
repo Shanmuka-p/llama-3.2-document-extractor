@@ -1,0 +1,10 @@
+PURCHASE AUTHORIZATION
+Ref: PO-2026-0038
+Date: 2026-08-23
+
+We, Bosch Group, hereby authorize the purchase of goods from Mamba Sports. Please fulfill the following order and deliver by 2026-09-07:
+  - 82 units of 'Electric Motor 5HP' at USD 627.14 each
+
+The total authorized amount for this purchase is USD 51425.48.
+Authorized Signature,
+Procurement Dept, Bosch Group

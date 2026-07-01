@@ -1,0 +1,16 @@
+PURCHASE ORDER
+PO Number: PO-2026-0036
+Date: 2026-05-02
+Buyer: DHL Express
+Supplier: Siam Retail Group
+Currency: USD
+
+-----------------------------------------
+Item Description     Qty    Unit Cost    Total
+-----------------------------------------
+Safety Gloves Carton 19     245.9        4672.1
+Grinding Wheel 7-inch 62     12.85        796.7
+Safety Gloves Carton 80     230.62       18449.6
+Safety Gloves Carton 33     250.69       8272.77
+-----------------------------------------
+GRAND TOTAL: USD 32191.17

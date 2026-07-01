@@ -1,0 +1,26 @@
+{
+  "buyer": "L&T Construction",
+  "supplier": "Pacific Hydro",
+  "po_number": "PO-2026-0033",
+  "date": "2026-11-21",
+  "delivery_date": "2026-12-03",
+  "currency": "USD",
+  "total": 32360.37,
+  "items": [
+    {
+      "item_name": "Electric Motor 5HP",
+      "quantity": 36,
+      "unit_price": 681.77
+    },
+    {
+      "item_name": "Circuit Breaker 100A",
+      "quantity": 31,
+      "unit_price": 186.59
+    },
+    {
+      "item_name": "Lifting Sling 3-Ton",
+      "quantity": 31,
+      "unit_price": 65.56
+    }
+  ]
+}

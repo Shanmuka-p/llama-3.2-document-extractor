@@ -1,0 +1,19 @@
+# Purchase Order: PO-2026-0033
+
+| Attribute | Value |
+| --- | --- |
+| **Date** | 2026-11-21 |
+| **Delivery Date** | 2026-12-03 |
+| **Buyer** | L&T Construction |
+| **Supplier** | Pacific Hydro |
+| **Currency** | USD |
+
+## Order Items
+
+| Item Name | Quantity | Unit Price | Total |
+| :--- | :---: | :---: | :---: |
+| Electric Motor 5HP | 36 | 681.77 | 24543.72 |
+| Circuit Breaker 100A | 31 | 186.59 | 5784.29 |
+| Lifting Sling 3-Ton | 31 | 65.56 | 2032.36 |
+
+**Total Authorized Amount:** USD 32360.37

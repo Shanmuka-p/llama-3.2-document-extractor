@@ -1,0 +1,18 @@
+# INVOICE
+
+| Vendor | Infosys Technologies |
+| --- | --- |
+| **Invoice #** | INV-2026-0058 |
+| **Date** | 2026-01-20 |
+| **Due Date** | 2026-02-17 |
+| **Currency** | USD |
+
+## Line Items
+
+| Description | Qty | Unit Price | Total |
+| :--- | :---: | :---: | :---: |
+| Consulting Fees - Level 3 | 11 | 159.72 | 1756.92 |
+
+| **Subtotal** | 1756.92 |
+| **Tax** | 316.25 |
+| **Total** | 2073.17 |

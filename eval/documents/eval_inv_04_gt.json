@@ -1,0 +1,17 @@
+{
+  "vendor": "British Petroleum",
+  "invoice_number": "INV-2026-0053",
+  "date": "2026-04-20",
+  "due_date": "2026-05-14",
+  "currency": "USD",
+  "subtotal": 12426.65,
+  "tax": 2236.8,
+  "total": 14663.45,
+  "line_items": [
+    {
+      "description": "DevOps Pipeline Setup",
+      "quantity": 5,
+      "unit_price": 2485.33
+    }
+  ]
+}

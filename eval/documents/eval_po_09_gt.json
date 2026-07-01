@@ -1,0 +1,16 @@
+{
+  "buyer": "Bosch Group",
+  "supplier": "Mamba Sports",
+  "po_number": "PO-2026-0038",
+  "date": "2026-08-23",
+  "delivery_date": "2026-09-07",
+  "currency": "USD",
+  "total": 51425.48,
+  "items": [
+    {
+      "item_name": "Electric Motor 5HP",
+      "quantity": 82,
+      "unit_price": 627.14
+    }
+  ]
+}

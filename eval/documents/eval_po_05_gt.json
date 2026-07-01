@@ -1,0 +1,21 @@
+{
+  "buyer": "Wipro Ltd.",
+  "supplier": "Nordic Timber",
+  "po_number": "PO-2026-0034",
+  "date": "2026-04-11",
+  "delivery_date": "2026-04-21",
+  "currency": "USD",
+  "total": 54801.19,
+  "items": [
+    {
+      "item_name": "Pneumatic Cylinder PC-9",
+      "quantity": 21,
+      "unit_price": 311.25
+    },
+    {
+      "item_name": "Control Panel CP-100",
+      "quantity": 19,
+      "unit_price": 2540.26
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+filename,raw_output_first_50_chars,is_valid_json,has_all_required_keys,key_accuracy,value_accuracy,notes
+eval_inv_01.txt,"{   ""vendor"": ""Bharati Airtel"",   ""invoice_number""",True,True,1.00,1.00,INVOICE test case
+eval_inv_02.txt,"{   ""vendor"": ""Deutsche Telekom"",   ""invoice_numbe",True,True,1.00,1.00,INVOICE test case
+eval_inv_03.txt,"{   ""vendor"": ""Renault Group"",   ""invoice_number"":",True,True,1.00,1.00,INVOICE test case
+eval_inv_04.txt,"{   ""vendor"": ""British Petroleum"",   ""invoice_numb",True,True,1.00,1.00,INVOICE test case
+eval_inv_05.txt,"{   ""vendor"": ""TotalEnergies"",   ""invoice_number"":",True,True,1.00,0.99,INVOICE test case
+eval_inv_06.txt,"{   ""vendor"": ""Mitsui & Co."",   ""invoice_number"": ",True,True,1.00,1.00,INVOICE test case
+eval_inv_07.txt,"{   ""vendor"": ""BHP Group"",   ""invoice_number"": ""IN",True,True,1.00,0.89,INVOICE test case
+eval_inv_08.txt,"{   ""vendor"": ""Rio Tinto"",   ""invoice_number"": ""IN",True,True,1.00,1.00,INVOICE test case
+eval_inv_09.txt,"{   ""vendor"": ""Infosys Technologies"",   ""invoice_n",True,True,1.00,1.00,INVOICE test case
+eval_inv_10.txt,"{   ""vendor"": ""Capgemini SA"",   ""invoice_number"": ",True,True,1.00,1.00,INVOICE test case
+eval_po_01.txt,"{   ""buyer"": ""Reliance Industries"",   ""supplier"": ",True,True,1.00,1.00,PURCHASE_ORDER test case
+eval_po_02.txt,"{   ""buyer"": ""Tata Motors"",   ""supplier"": ""TechNov",True,True,1.00,1.00,PURCHASE_ORDER test case
+eval_po_03.txt,"{   ""buyer"": ""State Bank of India"",   ""supplier"": ",True,True,1.00,1.00,PURCHASE_ORDER test case
+eval_po_04.txt,"{   ""buyer"": ""L&T Construction"",   ""supplier"": ""Pa",True,True,1.00,0.88,PURCHASE_ORDER test case
+eval_po_05.txt,"{   ""buyer"": ""Wipro Ltd."",   ""supplier"": ""Nordic T",True,True,1.00,1.00,PURCHASE_ORDER test case
+eval_po_06.txt,"{   ""buyer"": ""Federal Express"",   ""supplier"": ""Gan",True,True,1.00,1.00,PURCHASE_ORDER test case
+eval_po_07.txt,"{   ""buyer"": ""DHL Express"",   ""supplier"": ""Siam Re",True,True,1.00,1.00,PURCHASE_ORDER test case
+eval_po_08.txt,"{   ""buyer"": ""Siemens AG"",   ""supplier"": ""Oz Minin",True,True,1.00,0.88,PURCHASE_ORDER test case
+eval_po_09.txt,"{   ""buyer"": ""Bosch Group"",   ""supplier"": ""Mamba S",True,True,1.00,1.00,PURCHASE_ORDER test case
+eval_po_10.txt,"{   ""buyer"": ""Nestle India"",   ""supplier"": ""Vikas ",True,True,1.00,1.00,PURCHASE_ORDER test case

@@ -1,0 +1,15 @@
+Dear Accounts Payable,
+Please find below the invoice INV-2026-0051 issued by Deutsche Telekom on 2026-07-23.
+We kindly request payment of the total sum of USD 45454.95 by the due date of 2026-08-19.
+
+Below is the itemized breakdown of services rendered:
+- Mechanical Keyboard: 14 units at USD 118.6 each.
+- Software License - Enterprise: 7 units at USD 1217.26 each.
+- Project Management - Month: 5 units at USD 5492.69 each.
+- Technical Support - Annual: 1 units at USD 876.47 each.
+
+Subtotal before taxes: USD 38521.14.
+Applied tax amount: USD 6933.81.
+Total amount payable: USD 45454.95.
+Sincerely,
+Deutsche Telekom

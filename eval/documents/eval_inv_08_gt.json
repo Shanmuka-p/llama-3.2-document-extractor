@@ -1,0 +1,37 @@
+{
+  "vendor": "Rio Tinto",
+  "invoice_number": "INV-2026-0057",
+  "date": "2026-11-24",
+  "due_date": "2026-12-23",
+  "currency": "USD",
+  "subtotal": 69964.16,
+  "tax": 6996.42,
+  "total": 76960.58,
+  "line_items": [
+    {
+      "description": "Consulting Fees - Level 3",
+      "quantity": 13,
+      "unit_price": 146.84
+    },
+    {
+      "description": "Database Migration Service",
+      "quantity": 9,
+      "unit_price": 3236.51
+    },
+    {
+      "description": "Monitor 27 inch 4K",
+      "quantity": 11,
+      "unit_price": 366.91
+    },
+    {
+      "description": "Database Migration Service",
+      "quantity": 10,
+      "unit_price": 3416.72
+    },
+    {
+      "description": "Monitor 27 inch 4K",
+      "quantity": 2,
+      "unit_price": 361.72
+    }
+  ]
+}

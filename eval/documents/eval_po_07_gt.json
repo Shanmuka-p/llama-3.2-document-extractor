@@ -1,0 +1,31 @@
+{
+  "buyer": "DHL Express",
+  "supplier": "Siam Retail Group",
+  "po_number": "PO-2026-0036",
+  "date": "2026-05-02",
+  "delivery_date": null,
+  "currency": "USD",
+  "total": 32191.17,
+  "items": [
+    {
+      "item_name": "Safety Gloves Carton",
+      "quantity": 19,
+      "unit_price": 245.9
+    },
+    {
+      "item_name": "Grinding Wheel 7-inch",
+      "quantity": 62,
+      "unit_price": 12.85
+    },
+    {
+      "item_name": "Safety Gloves Carton",
+      "quantity": 80,
+      "unit_price": 230.62
+    },
+    {
+      "item_name": "Safety Gloves Carton",
+      "quantity": 33,
+      "unit_price": 250.69
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+filename,raw_output_first_50_chars,is_valid_json,has_all_required_keys,key_accuracy,value_accuracy,notes
+eval_inv_01.txt,"```json {   ""vendor"": ""Bharati Airtel"",   ""invoice",False,False,0.00,0.00,INVOICE test case
+eval_inv_02.txt,Sure! Here is the extracted invoice fields as a JS,False,False,0.00,0.00,INVOICE test case
+eval_inv_03.txt,"{   ""vendor"": ""Renault Group"",   ""invoiceNumber"": ",True,False,0.67,0.67,INVOICE test case
+eval_inv_04.txt,"{   ""vendor"": ""British Petroleum"",   ""invoice_numb",True,True,1.00,0.67,INVOICE test case
+eval_inv_05.txt,"{   ""vendor"": ""TotalEnergies"",   ""invoice_number"":",True,False,0.89,0.89,INVOICE test case
+eval_inv_06.txt,"```json {   ""vendor"": ""Mitsui & Co."",   ""invoice_n",False,False,0.00,0.00,INVOICE test case
+eval_inv_07.txt,"{   ""vendor"": ""BHP Group"",   ""invoice_number"": ""IN",True,True,1.00,0.89,INVOICE test case
+eval_inv_08.txt,"{   ""vendor"": ""Rio Tinto"",   ""invoice_number"": ""IN",True,False,0.89,0.89,INVOICE test case
+eval_inv_09.txt,"{   ""vendor"": ""Infosys Technologies"",   ""invoice_n",True,True,1.00,1.00,INVOICE test case
+eval_inv_10.txt,"```json {   ""vendor"": ""Capgemini SA"",   ""invoiceNu",False,False,0.00,0.00,INVOICE test case
+eval_po_01.txt,"Sure, here is the JSON representation of the purch",False,False,0.00,0.00,PURCHASE_ORDER test case
+eval_po_02.txt,"{   ""buyer"": ""Tata Motors"",   ""supplier"": ""TechNov",True,False,0.75,0.75,PURCHASE_ORDER test case
+eval_po_03.txt,"{   ""buyer"": ""State Bank of India"",   ""supplier"": ",True,False,0.88,0.88,PURCHASE_ORDER test case
+eval_po_04.txt,"{   ""buyer"": ""L&T Construction"",   ""supplier"": ""Pa",True,True,1.00,0.88,PURCHASE_ORDER test case
+eval_po_05.txt,"```json {   ""buyer"": ""Wipro Ltd."",   ""supplier"": """,False,False,0.00,0.00,PURCHASE_ORDER test case
+eval_po_06.txt,"``` {   ""buyer"": ""Federal Express"",   ""supplier"": ",False,False,0.00,0.00,PURCHASE_ORDER test case
+eval_po_07.txt,"{   ""buyer"": ""DHL Express"",   ""supplier"": ""Siam Re",True,True,1.00,0.88,PURCHASE_ORDER test case
+eval_po_08.txt,"{   ""buyer"": ""Siemens AG"",   ""supplier"": ""Oz Minin",True,False,0.88,0.88,PURCHASE_ORDER test case
+eval_po_09.txt,"{   ""buyer"": ""Bosch Group"",   ""supplier"": ""Mamba S",True,True,1.00,1.00,PURCHASE_ORDER test case
+eval_po_10.txt,"Here is the purchase order data: {   ""buyer"": ""Nes",False,False,0.00,0.00,PURCHASE_ORDER test case

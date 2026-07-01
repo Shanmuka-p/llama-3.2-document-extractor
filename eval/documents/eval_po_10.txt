@@ -1,0 +1,20 @@
+# Purchase Order: PO-2026-0039
+
+| Attribute | Value |
+| --- | --- |
+| **Date** | 2026-03-09 |
+| **Delivery Date** | 2026-04-01 |
+| **Buyer** | Nestle India |
+| **Supplier** | Vikas Fertilizers |
+| **Currency** | USD |
+
+## Order Items
+
+| Item Name | Quantity | Unit Price | Total |
+| :--- | :---: | :---: | :---: |
+| Industrial Thermometer | 72 | 83.26 | 5994.72 |
+| Safety Gloves Carton | 82 | 238.32 | 19542.24 |
+| Hydraulic Pump HP-3 | 88 | 1268.86 | 111659.68 |
+| Lifting Sling 3-Ton | 97 | 67.38 | 6535.86 |
+
+**Total Authorized Amount:** USD 143732.5

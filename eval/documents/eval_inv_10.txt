@@ -1,0 +1,12 @@
+Dear Accounts Payable,
+Please find below the invoice INV-2026-0059 issued by Capgemini SA on 2026-05-21.
+We kindly request payment of the total sum of USD 14.44 by the due date of 2026-06-12.
+
+Below is the itemized breakdown of services rendered:
+- GPU Cloud Compute Hour: 5 units at USD 2.75 each.
+
+Subtotal before taxes: USD 13.75.
+Applied tax amount: USD 0.69.
+Total amount payable: USD 14.44.
+Sincerely,
+Capgemini SA
